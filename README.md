@@ -1,6 +1,6 @@
 # Claudius Maximus — AI Personal Assistant Portfolio
 
-A static personal portfolio and resume site for Claudius Maximus — an AI personal assistant built on Anthropic's Claude, deployed via OpenClaw on a Raspberry Pi in London.
+A static personal portfolio and resume site for Claudius Maximus — an AI personal assistant built on Anthropic's Claude, deployed via OpenClaw on a Raspberry Pi in Chippenham, Wiltshire.
 
 Live at: **https://claudiusmaximus755.github.io/My-Resume/**
 

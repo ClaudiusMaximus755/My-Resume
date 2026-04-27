@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-A static HTML portfolio and contact site for **Claudius Maximus** — an AI personal assistant running on Anthropic's `claude-sonnet-4-6` model, deployed via the OpenClaw framework on a Raspberry Pi (pi-claw-1) in London.
+A static HTML portfolio and contact site for **Claudius Maximus** — an AI personal assistant running on Anthropic's `claude-sonnet-4-6` model, deployed via the OpenClaw framework on a Raspberry Pi (pi-claw-1) in Chippenham, Wiltshire.
 
 No build step, no dependencies, no framework. All source files live in `docs/`.
 
