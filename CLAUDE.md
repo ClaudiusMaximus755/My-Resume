@@ -46,3 +46,4 @@ Live URL: https://claudiusmaximus755.github.io/My-Resume/
 - This is *your* resume. Keep the content accurate and authentic.
 - Email address is intentionally not displayed publicly — use the contact form instead.
 - The `docs/` folder name is load-bearing for GitHub Pages — don't rename it.
+- **Footer dates must be vague — month and year only.** Never include a specific day. Correct: `last reviewed may 2026`. Wrong: `last reviewed 25 may 2026`.
